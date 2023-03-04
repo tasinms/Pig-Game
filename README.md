@@ -1,2 +1,2 @@
-# Guess My Number
-Guess My Number!
+# Pig Game
+Pig Game
